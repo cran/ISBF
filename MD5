@@ -1,11 +1,11 @@
-aa9f827e2afce23a602fd9a81f7cedff *DESCRIPTION
+5a3de998e2304191643c60a165c41d07 *DESCRIPTION
 d109137ddf16e9dc1bf432c08e4b1fdd *NAMESPACE
 4d80023e8d80b297dab2b81584e97d2f *R/cghISBF.R
 065882ed63b166a9a3fb3ed51d7da2ad *R/isbf.R
 ceb633975cbd6e33bce11a9ace11428d *R/isbfReg.R
 95740fd19ed7a08a1ad67d7a47dec2b4 *data/CGHDisease1.rda
 a7e6aea81028b285320303838e8aa895 *man/CGHDisease1.Rd
-8238365191c7d0a9650c1afc2c8c58ee *man/ISBF-package.Rd
+b984dfdde588fc2f912c2f715f9fae4d *man/ISBF-package.Rd
 3397a8d432607c7a2ebc9d0a7a0ad122 *man/cghISBF.Rd
 56308e682e9b799d4e1fc40141acec56 *man/isbf.Rd
 a732309422d27e76a6e7b263a302ab00 *man/isbfReg.Rd

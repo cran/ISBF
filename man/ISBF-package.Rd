@@ -6,14 +6,14 @@
 Iterative Selection of Blocks of Features - ISBF
 }
 \description{
-Selection of features for sparse regression estimation (like the LASSO). Selection of blocks of features when the regression parameter is sparse and constant by blocks (like the Fused-LASSO). Application to CGH data. TEST VERSION, USE AT YOUR OWN RISK.
+Selection of features for sparse regression estimation (like the LASSO). Selection of blocks of features when the regression parameter is sparse and constant by blocks (like the Fused-LASSO). Application to CGH data. TEST VERSION.
 }
 \details{
 \tabular{ll}{
 Package: \tab ISBF\cr
 Type: \tab Package\cr
 Version: \tab 0.1\cr
-Date: \tab 2011-08-24\cr
+Date: \tab 2014-11-10\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }
